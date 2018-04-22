@@ -1,0 +1,50 @@
+<ion-header>
+    <ion-navbar>
+        <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+        <ion-title>{{ recipe.RecName}}</ion-title>
+    </ion-navbar>
+</ion-header>
+<ion-content>
+    <img src="{{recipe.thumbnailImageUrl}}" style="width:100%;height:50%" />
+    <div class="recipe-details">
+        <ion-grid>
+            <ion-row>
+                <ion-col>
+                    <div class="recipe-ingredients-count">
+                        <div>{{recipe.ingredients.length}}</div>
+                        Ingredients
+                    </div>
+                </ion-col>
+                <!-- <ion-col>
+                     <div class="recipe-servings">
+                        <div>{{recipe.numberOfServings}}</div>
+                         Servings
+                    </div>
+                </ion-col> -->
+                <ion-col>
+                    <div class="recipe-time">
+                        <div>{{recipe.timers}}</div>
+                        Minutes
+                    </div>
+                </ion-col>
+            </ion-row>
+        </ion-grid>
+    </div>
+    <ion-list>
+        <ion-list-header class="ingredients-header">
+            Ingredients
+        </ion-list-header>
+        <button ion-item *ngFor="let ingredient of recipe.ingredients">
+            <ion-icon name="cafe" item-start></ion-icon>
+            {{ingredient.quantity}}{{ingredient.name}}{{ingredient.type}}
+        </button>
+    </ion-list>
+
+    <ion-list-header class="ingredients-header">
+        Steps
+    </ion-list-header>
+    <div style="background-color: white; margin-left:5px;  margin-top:5px;" *ngFor="let step of recipe.steps">{{step}}<br></div>
+
+</ion-content>

@@ -1,0 +1,28 @@
+<ion-header>
+  <ion-navbar>
+      <button ion-button menuToggle>
+          <ion-icon name="menu"></ion-icon>
+      </button>
+      <ion-title>Recipes</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+ 
+  <ion-list>     
+    <ion-searchbar [(ngModel)]="searchTerm" (ionInput)="searchRecipes($event)"></ion-searchbar>   
+  
+      <ion-item *ngFor="let recipe of recipes" (click)="onSelect(recipe)">
+
+    <ion-thumbnail item-left>
+      <img src="{{recipe.thumbnailImageUrl}}"  />
+    </ion-thumbnail>
+
+    <h2 class="recipe-name">{{recipe.RecName}}</h2>
+    <span class="cooking-time">Cooking Time:</span> 
+
+    <span class="cooking-time-value">{{recipe.timers}} min</span>
+
+  </ion-item>
+</ion-list>
+</ion-content> 

@@ -1,0 +1,605 @@
+{
+    "FastFood":[
+        {
+            "thumbnailImageUrl":"../../assets/BreakFast/CrispyFriedEgg.jpg",
+            "RecName": "Crispy Fried Eggs",
+            "ingredients": [
+                {
+                    "quantity": "3 tablespoons",
+                    "name": " vegetable or olive oil",
+                    "type": ""
+                },
+                {
+                    "quantity": "2 ",
+                    "name": "eggs",
+                    "type": ""
+                },
+                {
+                    "quantity": "",
+                    "name": "black pepper",
+                    "type": ""
+                }
+            ],
+            "steps": [
+                "Heat oil in a 10-inch cast iron, carbon steel, or nonstick skillet over medium-high heat until shimmering.",
+                "(A small drop of water dropped into it should immediately sizzle.)",
+                "Carefully break eggs into hot oil, dropping them from right above the surface to prevent hot oil from splashing.",
+                "Season with salt and pepper.",
+                "Tilt the skillet toward you so oil pools against the side of the pan. ",
+                "Tilt the skillet toward you so oil pools against the side of the pan. Using a spoon, baste eggs with hot oil, aiming at the uncooked portions of the egg whites and avoiding the yolk.",
+                " Continue basting until eggs are puffy and cooked, 45 seconds to 1 minute.",
+                "Transfer to a plate and serve."
+
+            ],
+            "timers": [
+                    2
+            ]
+     
+        },
+        {
+            "thumbnailImageUrl":"../../assets/BreakFast/frenchOmelet.jpg",
+            "RecName": "Classic French Omelette",
+            "ingredients": [
+                {
+                    "quantity": "3 ",
+                    "name": " large eggs",
+                    "type": ".."
+                },
+                {
+                    "quantity": "..",
+                    "name": "salt ",
+                    "type": ".."
+                },
+                {
+                    "quantity": "",
+                    "name": "freshly ground white or black pepper",
+                    "type": ".."
+                }
+            ],
+            "steps": [
+                "In a medium bowl, beat eggs with a disposable plastic or reusable wooden fork just until last traces of white are mixed in; season with salt and pepper.",
+                "In a perfectly unscratched 8-inch nonstick skillet, melt butter, swirling over moderate heat, until fully melted and foamy but not browned.",
+                "Add eggs and stir rapidly with fork, tines up, while shaking pan to agitate eggs; make sure to move fork all around pan to break up curds and scrape them from bottom of skillet as they form.",
+                "Stop stirring as soon as eggs are very softly scrambled and creamy (but still loose enough to come together into a single mass), 1 to 2 minutes.",
+                "Using fork, gently spread egg in an even layer around skillet and scrape down any wispy bits around the edges.",
+                "The top surface should be loose and creamy, but if it looks too liquid and raw, cook undisturbed for another few seconds.",
+                "(If it still flows, you can swirl skillet to send loose egg to the edges, where it will set more quickly.)",
+                "Remove from heat, tilt skillet up by its handle, and, using fork, gently roll omelette down over itself until it is nearly folded in half. ",
+                "Using fork, push omelette to edge of skillet so that lower edge of egg begins to just barely overhang; use fork to fold overhanging edge of egg up, closing omelette.",
+                "Hold skillet right over plate and turn omelette out onto it.",
+                "It should be almond- or cigar-shaped, with the seam on bottom; if it's not, lay a clean kitchen towel over it and use your hands to adjust its shape and position, then remove towel.",
+                "Serve."
+            ],
+            "timers": [
+               5
+            ]
+           
+        },
+        {
+            "thumbnailImageUrl":"../../assets/BreakFast/potatoSandwitch.jpg",
+            "RecName": "Tomato Sandwich",
+            "ingredients": [
+                {
+                    "quantity": "3",
+                    "name": " naturally cured bacon ",
+                    "type": ""
+                },
+                {
+                    "quantity": "2 slices",
+                    "name": "sandwich bread",
+                    "type": ""
+                },
+                {
+                    "quantity": "2 tablespoons",
+                    "name": "mayonnais",
+                    "type": ""
+                },
+                {
+                    "quantity": "1 1/2 cups",
+                    "name": "iceberg lettuce ",
+                    "type": ".."
+                },
+                {
+                    "quantity": "4 slices",
+                    "name": "tomato",
+                    "type": ""
+                },
+                {
+                    "quantity": "",
+                    "name": "salt",
+                    "type": ""
+                },
+                {
+                    "quantity": "",
+                    "name": "black pepper",
+                    "type": ""
+                }
+            ],
+            "steps": [
+                "Place a griddle or skillet over medium-low heat. Add bacon and place a bacon press, skillet, or masonry trowel on top of it to keep it flat as it cooks. Cook until lightly browned on first side, about 5 minutes, then flip, cover again, and continue cooking until bacon is browned on both sides and fat has rendered, about 3 minutes longer. Transfer bacon to a paper towel–lined plate and set aside.",
+                "Place bread on same skillet or griddle and toast in bacon fat over medium-low heat, swirling occasionally, until evenly browned on first side. Flip and brown second side.",
+                "Lay toasted bread on a work surface and spread mayonnaise on both top faces. Divide lettuce evenly between both pieces of bread. Layer tomato slices on one piece of bread and sprinkle generously with coarse salt and freshly ground pepper.",
+                "Break bacon slices in half and layer them onto the sandwich in 2 layers of 3 half-slices each, alternating the orientation of bacon in each layer for more structural stability. Close sandwich and cut in half diagonally. Serve immediately"
+
+            ],
+            "timers": [
+    20
+            ]
+         
+        },
+        {
+            "RecName": "Poached eggs with smoked salmon",
+            "ingredients": [
+                {
+                    "quantity": "1 tbsp",
+                    "name": "oil",
+                    "type": ""
+                },
+                {
+                    "quantity": "140g",
+                    "name": "white cabbage",
+                    "type": "finely chopped"
+                },
+                {
+                    "quantity": "2 ",
+                    "name": " spring onions",
+                    "type": ",sliced"
+                },
+                {
+                    "quantity": "300g",
+                    "name": "potato",
+                    "type": ""
+                },
+                {
+                    "quantity": "1 tbsp",
+                    "name": "snipped chives",
+                    "type": ""
+                },
+                {
+                    "quantity": "2 ",
+                    "name": "eggs",
+                    "type": ""
+                },
+                {
+                    "quantity": "75g ",
+                    "name": "smoked salmon",
+                    "type": ""
+                }
+            ],
+            "steps": [
+                "Cook the potatoes in a pan of boiling water until tender, then drain.",
+                "Heat the oil in a non-stick frying pan or wok. Sweat the cabbage and the spring onions in the pan for a couple of mins. Meanwhile, chop and squash the potatoes roughly, then add to the pan along with the chives. Cook for 4-5 mins, flip it over (don’t worry if it breaks) and cook for a further 4-5 mins",
+                "Meanwhile, bring a small pan of water to a rolling boil, then reduce the heat so it is just simmering. Crack the eggs into the pan and simmer for about 3 mins until the whites are cooked and the yolk is just beginning to set. Remove with a slotted spoon and drain on kitchen paper.",
+                "To serve, divide the bubble & squeak between 2 plates, place the smoked salmon and poached eggs on top and grind over a little black pepper, to taste.",
+                "Enjoy!"
+            ],
+            "timers": [
+               20
+            ]
+      
+        },
+        {
+            "RecName": "Ham & potato hash with baked beans & eggs",
+            "ingredients": [
+                {
+                    "quantity": "600g",
+                    "name": "potato",
+                    "type": ", diced"
+                },
+                {
+                    "quantity": "1 cal",
+                    "name": "cooking spray",
+                    "type": "for frying"
+                },
+                {
+                    "quantity": "2",
+                    "name": "leeks",
+                    "type": "sliced"
+                },
+                {
+                    "quantity": "175g",
+                    "name": "lean ham",
+                    "type": ",chopped"
+                },
+                {
+                    "quantity": "2 tbsp",
+                    "name": "wholegrain mustard",
+                    "type": ""
+                },
+                {
+                    "quantity": "5",
+                    "name": "eggs",
+                    "type": ""
+                },
+                {
+                    "quantity": "2x 415g",
+                    "name": "cans reduced sugar &salt",
+                    "type": "baked beans"
+                }
+            ],
+            "steps": [
+                "Bring a large pan of salted water to the boil. Add the potatoes and boil for 5 mins until just tender. Drain well and leave in the colander to steam-dry.",
+                "Meanwhile, spray an ovenproof pan with cooking spray. Add the leeks with a splash of water and fry until very soft and squishy. Add a few more sprays of the oil, tip in the potatoes along with the ham, and fry to crisp up a little. Heat oven to 200C/180C fan/gas 6.",
+                "Stir in the mustard, 1 egg and a good amount of seasoning with a fork – break up some of the potatoes roughly as you do. Flatten down the mixture, spray the top with oil, and bake in the oven for 15-20 mins until the top is crisp.",
+                "When the hash is nearly ready, heat 200ml water in a non-stick frying pan with a lid (or use a baking sheet as a lid). When it is steaming (but before it simmers), crack in the remaining 4 eggs and cover with a lid. Cook for 2-4 mins until the eggs are done to your liking. Meanwhile, heat the beans.",
+                "Lift an egg onto each plate, add a big scoop of hash and spoon on some beans.",
+        
+                "Enjoy!"
+            ],
+            "timers": [
+               30
+            ]
+        },
+        {
+            "RecName": "Mic's Yorkshire Puds",
+            "ingredients": [
+                {
+                    "quantity": "200g",
+                    "name": "plain flour",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "3",
+                    "name": "eggs",
+                    "type": "Dairy"
+                },
+                {
+                    "quantity": "300ml",
+                    "name": "milk",
+                    "type": "Dairy"
+                },
+                {
+                    "quantity": "3 tbsp",
+                    "name": "vegetable oil",
+                    "type": "Condiments"
+                }
+            ],
+            "steps": [
+                "Put the flour and some seasoning into a large bowl.",
+                "Stir in eggs, one at a time.",
+                "Whisk in milk until you have a smooth batter.",
+                "Chill in the fridge for at least 30 minutes.",
+                "Heat oven to 220C/gas mark 7.",
+                "Pour the oil into the holes of a 8-hole muffin tin.",
+                "Heat tin in the oven for 5 minutes.",
+                "Ladle the batter mix into the tin.",
+                "Bake for 30 minutes until well browned and risen."
+            ],
+            "timers": [
+                0,
+                0,
+                0,
+                30,
+                0,
+                0,
+                5,
+                0,
+                30
+            ] 
+        },
+        {
+            "RecName": "Old-Fashioned Oatmeal Cookies",
+            "ingredients": [
+                {
+                    "quantity": "1 cup",
+                    "name": "raisins",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1",
+                    "name": "cup water",
+                    "type": "Drinks"
+                },
+                {
+                    "quantity": "3/4 cup",
+                    "name": "shortening",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "1 1/2 cups",
+                    "name": "sugar",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "2 1/2 cups",
+                    "name": "flour",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "1 tsp.",
+                    "name": "soda",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "1 tsp.",
+                    "name": "salt",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "1 tsp.",
+                    "name": "cinnamon",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "1/2 tsp.",
+                    "name": "baking powder",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "1/2 tsp.",
+                    "name": "cloves",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "2 cups",
+                    "name": "oats",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "1/2 cup",
+                    "name": "chopped nuts",
+                    "type": "Baking"
+                }
+            ],
+            "steps": [
+                "Simmer raisins and water over medium heat until raisins are plump, about 15 minutes.",
+                "Drain raisins, reserving the liquid.",
+                "Add enough water to reserved liquid to measure 1/2 cup.",
+                "Heat oven to 400°.",
+                "Mix thoroughly shortening, sugar, eggs and vanilla.",
+                "Stir in reserved liquid.",
+                "Blend in remaining ingredients.",
+                "Drop dough by rounded teaspoonfuls about 2 inches apart onto ungreased baking sheet.",
+                "Bake 8 to 10 minutes or until light brown.",
+                "About 6 1/2 dozen cookies."
+            ],
+            "timers": [
+                15,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8,
+                0
+            ]
+          
+        },
+        {
+            "RecName": "Blueberry Oatmeal Squares",
+            "ingredients": [
+                {
+                    "quantity": "2-1/2 cups",
+                    "name": "rolled oats, (not instant)",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "1-1/4 cups",
+                    "name": "all-purpose flour",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "1 tbsp",
+                    "name": "grated orange rind",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1/4 tsp",
+                    "name": "salt",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "1 cup",
+                    "name": "cold butter, cubed",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "3/4 cup",
+                    "name": "packed brown sugar",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "3 cups",
+                    "name": "fresh blueberries",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1/2 cup",
+                    "name": "granulated sugar",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "1/3 cup",
+                    "name": "orange juice",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "4 tsp",
+                    "name": "cornstarch",
+                    "type": "Baking"
+                }
+            ],
+            "steps": [
+                "Filling: In saucepan, bring blueberries, sugar and orange juice to boil; reduce heat and simmer until tender, about 10 minutes.",
+                "Whisk cornstarch with 2 tbsp (25 mL) water; whisk into blueberries and boil, stirring, until thickened, about 1 minute.",
+                "Place plastic wrap directly on surface; refrigerate until cooled, about 1 hour.",
+                "In large bowl, whisk together oats, flour, sugar, orange rind and salt ; with pastry blender, cut in butter until in coarse crumbs.",
+                "Press half into 8-inch (2 L) square parchment paper–lined metal cake pan; spread with blueberry filling.",
+                "Bake in centre of 350°F oven until light golden, about 45 minutes.",
+                "Let cool on rack before cutting into squares.",
+                "(Make-ahead: Cover and refrigerate for up to 2 days or overwrap with heavy-duty foil and freeze for up to 2 weeks.)"
+            ],
+            "timers": [
+                10,
+                1,
+                60,
+                0,
+                0,
+                45,
+                0,
+                0
+            ],
+                   " imageURL": "assets/imgs/r2_thumb.jpg",
+           " originalURL": "assets/imgs/r2_thumb.jpg"
+          
+        },
+        {
+            "RecName": "Curried chicken salad",
+            "ingredients": [
+                {
+                    "quantity": "3",
+                    "name": "skinless, boneless chicken breasts, halved lengthwise",
+                    "type": "Meat"
+                },
+                {
+                    "quantity": "1/2 cup",
+                    "name": "mayonnaise",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "1 tbsp",
+                    "name": "lemon zest",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1 tbsp ",
+                    "name": "lemon juice",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1 1/2 tsp",
+                    "name": "curry powder",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "1/4 tsp",
+                    "name": "salt",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "2",
+                    "name": "ripe mangoes, diced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "dried cranberries",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "2",
+                    "name": "green onions, thinly sliced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1",
+                    "name": "celery stalk, finely chopped",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "6 leaves",
+                    "name": "Boston lettuce",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "6",
+                    "name": "English muffins, toasted",
+                    "type": "Misc"
+                }
+            ],
+            "steps": [
+                "ARRANGE chicken in a single layer in a large pot.",
+                "Add water to just cover.",
+                "Bring to a boil over medium-high.",
+                "Flip chicken, reduce heat to medium and simmer until cooked, about 6 more min.",
+                "Cool.",
+                "STIR mayo with lemon zest, juice, curry and salt in large bowl.",
+                "Using 2 forks, shred chicken, then stir into mayo mixture with mango, cranberries, green onions and celery.",
+                "Divide among muffins with lettuce leaves",
+                "Sandwich with tops"
+            ],
+            "timers": [
+               20
+            ]
+         
+        },
+        {
+            "RecName": "",
+            "ingredients": [
+                {
+                    "quantity": "2",
+                    "name": "pepper",
+                    "type": ""
+                },
+                {
+                    "quantity": "1/2 cup",
+                
+                    "type": "Baking"
+                },
+               
+                {
+                    "quantity": "1 1/2 tsp",
+                    "name": "curry powder",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "1 1/2 tsp",
+                    "name": "curry powder",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "1/4 tsp",
+                    "name": "salt",
+                    "type": "Baking"
+                },
+                {
+                    "quantity": "2",
+                    "name": "ripe mangoes, diced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1/4 cup",
+                    "name": "dried cranberries",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "2",
+                    "name": "green onions, thinly sliced",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "1",
+                    "name": "celery stalk, finely chopped",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "6 leaves",
+                    "name": "Boston lettuce",
+                    "type": "Produce"
+                },
+                {
+                    "quantity": "6",
+                    "name": "English muffins, toasted",
+                    "type": "Misc"
+                }
+            ],
+            "steps": [
+                "ARRANGE chicken in a single layer in a large pot.",
+                "Add water to just cover.",
+                "Bring to a boil over medium-high.",
+                "Flip chicken, reduce heat to medium and simmer until cooked, about 6 more min.",
+                "Cool.",
+                "STIR mayo with lemon zest, juice, curry and salt in large bowl.",
+                "Using 2 forks, shred chicken, then stir into mayo mixture with mango, cranberries, green onions and celery.",
+                "Divide among muffins with lettuce leaves",
+                "Sandwich with tops"
+            ],
+            "timers": [
+               20
+            ]
+         
+        }
+    ]
+  }
